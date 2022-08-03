@@ -5,7 +5,7 @@ An illustration for https://github.com/ethereum/solidity/issues/13332
 To run the test:
 ```
 npm install
-npm run compile
+npm run build
 npm run test
 ```
 
